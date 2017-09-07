@@ -1,13 +1,19 @@
-@import 'https://fonts.googleapis.com/css?family=Monserrat';
+@import 'https://fonts.googleapis.com/css?family=Montserrat';
 
 body{
-  font-family:'Monserrat', sans-serif;
+  font-family:'Montserrat', sans-serif;
 }
 header{
+ 
   position: relative;
   padding-top: 84px;
   padding-bottom: 80px;
 }
+/**/
+/* .imgen-header{
+  float: left;
+  margin-top: 10px;
+} */
 header nav{
   position: fixed;
   width: 100%;
